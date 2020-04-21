@@ -1,0 +1,2 @@
+#define WIFI_SSID "AXTEL-5ED7"
+#define WIFI_PASS "45903527"
