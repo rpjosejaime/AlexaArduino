@@ -1,2 +1,2 @@
-#define WIFI_SSID "TP-Link_B168"
-#define WIFI_PASS "45903527"
+#define WIFI_SSID "TP-Link_F528"
+#define WIFI_PASS "42568445"
