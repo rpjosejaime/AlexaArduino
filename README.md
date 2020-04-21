@@ -11,7 +11,7 @@ Arduino 1.8.7
 ESP8266 2.6.0
 fauxmoESP *
 ESP Async *
-* usar las versiones de este Git
+* usar las versiones de este Git, guardalas en Arduino/libraries
 
 Placa Nodemcu, Wemos o arduino con ESP8266
 Led 5mm
